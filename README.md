@@ -5,6 +5,6 @@ Everything you need to know to run the code can be found by reading the page for
 
 You'll have to run the getDatasets scripts in each assignment to download the datasets but otherwise my code should run out of the box.
 
-It's a great course and I can't recommend it enough for those who want to understand the ins and outs of neural networks, CNNs, RNNs and more. Coding them from top to bottom in python and numpy and working out the backprop derivations yourself is really worthwhile.
+It's a great course and I can't recommend it enough for those who want to understand the ins and outs of neural networks, CNNs, RNNs and more. Coding them from top to bottom in python and numpy and working out the backprop derivations yourself is really worthwhile for your understanding.
 
 If you have any questions, feel free to ask.
